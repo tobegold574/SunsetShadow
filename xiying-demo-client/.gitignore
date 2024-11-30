@@ -1,0 +1,11 @@
+# 忽略本地配置
+.hbuilderx
+
+# 忽略输出目录
+dist
+
+# 忽略依赖
+node_modules
+
+# 静态文件
+src/static

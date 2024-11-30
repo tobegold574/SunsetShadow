@@ -1,0 +1,56 @@
+{
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+		}
+	},
+	"pages": [
+		{
+			"path": "pages/login/sign-in",
+			"style": {}
+		},{
+			"path": "pages/profile/applicationlist",
+			"style": {}
+		},{
+			"path": "pages/dashboard",
+			"style":{}
+		},{
+			"path": "pages/login/sign-up",
+			"style": {}
+		},{
+			"path": "pages/profile/private",
+			"style":{}
+		},{
+			"path": "pages/profile/match",
+			"style": {}
+		},{
+			"path": "pages/map",
+			"style": {}
+		},{
+			"path": "pages/exhibition/flow",
+			"style": {}
+		},{
+			"path": "pages/profile/public",
+			"style": {}
+		},{
+			"path": "pages/community/friendship",
+			"style":{}
+		},{
+			"path": "pages/community/conversations",
+			"style": {}
+			
+		},{
+			"path": "pages/exhibition/editor",
+			"style": {}
+		}
+	],
+	"globalStyle": {
+		"transparentTitle": "always",
+		"app-plus": {
+			"bounce": "all",
+			"popGesture": "close"
+		}
+	},
+	"usingComponents":true
+}
