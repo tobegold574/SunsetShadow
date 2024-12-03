@@ -1,0 +1,10 @@
+# idea配置
+.idea
+
+# vscode配置
+.vscode
+
+# idea编译过程临时文件
+out
+
+

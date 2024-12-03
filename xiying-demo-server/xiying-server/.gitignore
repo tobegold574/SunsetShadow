@@ -1,0 +1,14 @@
+# 内部idea配置
+.idea
+
+# idea输出
+target
+
+# idea项目模块配置
+xiying-server.iml
+
+# 个性化配置（mysql配置、redis配置、日志配置、OSS配置、servelet配置）
+src/main/resources
+
+# springboot不用webapp
+src/main/webapp
