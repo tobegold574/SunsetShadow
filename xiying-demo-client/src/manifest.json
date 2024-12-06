@@ -54,17 +54,17 @@
             "sdkConfigs" : {
                 "geolocation" : {
                     "amap" : {
-                        "name" : "amap_UZsZ9ZZAx5",
+                        "name" : "你的开发者用户名",
                         "__platform__" : [ "android" ],
                         "appkey_ios" : "",
-                        "appkey_android" : "dcf7ae04be1462188fe352ca84f451c6"
+                        "appkey_android" : "你自己申请的"
                     }
                 },
                 "maps" : {
                     "amap" : {
-                        "name" : "amapSGsrlIx6",
-                        "appkey_ios" : "bf3db59a1d14485e6cc6e61fe38f3782",
-                        "appkey_android" : "dcf7ae04be1462188fe352ca84f451c6"
+                        "name" : "你的高德开发者用户名",
+                        "appkey_ios" : "你申请的ios的appkey",
+                        "appkey_android" : "你申请的android的appkey"
                     }
                 }
             }
