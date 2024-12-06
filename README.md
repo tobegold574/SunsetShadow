@@ -160,7 +160,10 @@ ipconfig
 ***
 
 **如果你喜欢我的想法的话，请给我一个Star吧o(*￣︶￣*)o**
+
 这是我的[个人博客](https://tobegold574.me/)，我已经记录了leetcode hot100的做题过程，我会每天更新每日一题的做题过程和总结，再之后还将加入我的开发日志，和我在AI方面学习到的新知识和论文进展等等，请关注我吧😲。我也会专门放一篇博客用来讨论哦，如果大家有任何关于夕影、实习、开发的想法，欢迎评论留言ヾ(•ω•`)o！
+
+[直通讨论区](https://tobegold574.me/2024/12/06/%E5%A4%95%E5%BD%B1%E8%AE%A8%E8%AE%BA%E5%8C%BA-%E2%9D%81%C2%B4%E2%97%A1-%E2%9D%81/)
 
 ## 参考与鸣谢
 - [spring](https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-servlet/context-hierarchy.html)
