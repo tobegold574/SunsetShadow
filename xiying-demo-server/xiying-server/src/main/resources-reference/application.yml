@@ -1,0 +1,15 @@
+# 连mysql的
+# 注意：本人测试只有mysql的配置可以放yml，properties里的redis和minio都不让，不知道为啥，蛮傻呗的
+spring:
+  datasource:
+    url: 
+    username: 
+    password: 
+    driver-class-name: 
+
+# 这里因为一些原因需要启用驼峰法命名，不然会有无效匹配
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: false
+
+
