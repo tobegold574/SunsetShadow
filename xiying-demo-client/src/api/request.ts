@@ -1,4 +1,4 @@
-const BASE_URL = "https:localhost:3000";
+const BASE_URL = "http://localhost:3000";
 
 export function get(url: string, params?: object, config?: object) {
 	return new Promise((resolve, reject) => {

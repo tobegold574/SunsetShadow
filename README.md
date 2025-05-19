@@ -96,7 +96,7 @@
 建议使用 **HBuilderX** 进行调试， **HBuilderX** 与UniApp框架紧密联系，为UniApp项目提供更便利的调试支持。在 **HBuilderX** 内可以直接选择 **在浏览器中运行** 。
 或者使用cli：
 ```bash
-npm run install             # 安装依赖
+npm install             # 安装依赖
 npm run dev:%platform%      # 运行至不同平台
 ```
 - 注意，当前前端内 **没有测试账户** ，如果只运行前端就 **只能访问登录页面** ，建议 **先启动后端** 。
@@ -113,7 +113,7 @@ npm run dev:%platform%      # 运行至不同平台
 1. log4j
 2. mybatis-plus
 
-建议创建`resources`文件夹存放各类配置，具体 **如何配置** 请参考文件夹`/resources-reference`。
+建议在`resources`文件夹存放各类配置，具体 **如何配置** 在该文件夹已有赘述。
 
 以上 **全部完成** 之后请切换目录到你的`/xiying-server`文件夹。然后：
 ```bash
