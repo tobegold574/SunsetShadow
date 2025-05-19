@@ -1,4 +1,4 @@
-package com.interceptors;
+package com.demo.xiying.interceptors;
 
 import java.security.Principal;
 import java.util.Map;

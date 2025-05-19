@@ -17,7 +17,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 import org.springframework.http.server.ServerHttpRequest;
 import org.springframework.http.server.ServerHttpResponse;
 import com.demo.xiying.utils.StompPrincipal;
-import com.interceptors.CustomHandshakeHandler;
+import com.demo.xiying.interceptors.CustomHandshakeHandler;
 @Configuration
 @EnableWebSocketMessageBroker
 public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
