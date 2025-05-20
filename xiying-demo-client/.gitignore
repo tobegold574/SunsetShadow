@@ -6,6 +6,3 @@ dist
 
 # 忽略依赖
 node_modules
-
-# 静态文件
-src/static
